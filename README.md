@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Om Gaurav
 
-🎓 B.Tech Computer Science student
+🎓 B.Tech Computer Science student(IIITV)                                                                              
 💡 Problem-solver with a strong interest in **DSA and Machine Learning**
 
 ---
